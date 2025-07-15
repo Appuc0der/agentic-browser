@@ -1,6 +1,5 @@
 import streamlit as st
-from playwright.sync_api import sync_playwright
-from agent.scraper import scrape_tesla_jobs
+from agent.runner import run_agent
 import pandas as pd
 
 st.set_page_config(page_title="Agentic Tesla Intern Finder", layout="wide")
