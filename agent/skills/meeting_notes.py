@@ -1,2 +1,2 @@
-def transcribe_meeting(audio_file):
-    return "Transcribed meeting content (dummy response)."
+def transcribe_audio(audio_file):
+    return "[Mock transcript] This is a simulated result from Whisper transcription."
