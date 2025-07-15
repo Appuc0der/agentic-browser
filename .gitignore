@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.mp3
+*.wav
+*.zip
+*.bin
+*.log
+node_modules/
+venv/
+__pycache__/
+*.log
+*.mp3
+*.zip
+*.dylib
